@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pre Work Todo</string>
+    <string name="etLabel">Enter a new Item</string>
+    <string name="btnHint">Enter a new Item</string>
+    <string name="btnText">Add</string>
+    <string name="tv_edit_item">Edit Text Below:</string>
+    <string name="btnSave">Save</string>
+    <string name="error_empty_todo">Error: Text cannot be empty</string>
+</resources>
